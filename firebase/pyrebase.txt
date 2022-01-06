@@ -1,0 +1,11 @@
+PYREBASE 
+
+
+pip install --upgrade pip
+
+pip install --upgrade setuptools
+
+pip install pyrebase4
+
+https://github.com/nhorvath/Pyrebase4
+
