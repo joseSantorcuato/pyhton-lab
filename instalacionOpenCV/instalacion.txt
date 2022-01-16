@@ -1,0 +1,9 @@
+
+Instalación openCV Conda 
+https://anaconda.org/conda-forge/opencv 
+
+
+conda install -c conda-forge opencv
+
+import cv2
+print (cv2.__version__)
